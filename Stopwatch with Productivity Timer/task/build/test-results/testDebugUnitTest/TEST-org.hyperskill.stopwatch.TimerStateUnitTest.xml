@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.TimerStateUnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-12T17:21:11" hostname="Uladzislaus-MacBook-Pro.local" time="7.22">
+  <properties/>
+  <testcase name="testShouldStopTimerAndResetCountOnResetButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.494"/>
+  <testcase name="testShouldCheckTimerInitialValue" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="0.114"/>
+  <testcase name="testShouldCountOneSecondAfterOneSecondOnStartButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.225"/>
+  <testcase name="testShouldContinueCountOnPressingStartButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="2.336"/>
+  <testcase name="testShouldTakeOneSecondToCountOneSecondOnStartButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="0.424"/>
+  <testcase name="testShouldIgnorePressingResetButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.627"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldStopTimerAndResetCountOnResetButtonClick: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3470d6a,android.graphics.HardwareRenderer$DestroyContextRunnable@1e10ed99)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldCheckTimerInitialValue: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3dddd8db,android.graphics.HardwareRenderer$DestroyContextRunnable@f2ad95a)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldCountOneSecondAfterOneSecondOnStartButtonClick: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@d1b4d99,android.graphics.HardwareRenderer$DestroyContextRunnable@3a822b43)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldContinueCountOnPressingStartButtonAgain: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@584d10b3,android.graphics.HardwareRenderer$DestroyContextRunnable@6bc5181e)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldTakeOneSecondToCountOneSecondOnStartButtonClick: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3b64dcd2,android.graphics.HardwareRenderer$DestroyContextRunnable@701926dc)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldIgnorePressingResetButtonAgain: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3df23caf,android.graphics.HardwareRenderer$DestroyContextRunnable@cb6bc5c)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

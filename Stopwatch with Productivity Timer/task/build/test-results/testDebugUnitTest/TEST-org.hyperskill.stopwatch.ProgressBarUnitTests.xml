@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.ProgressBarUnitTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-12T17:21:30" hostname="Uladzislaus-MacBook-Pro.local" time="7.607">
+  <properties/>
+  <testcase name="testShouldCheckProgressBarColorEachSecond" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="5.771"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnInit" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.078"/>
+  <testcase name="testShouldCheckProgressBarVisibilityOnStart" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.073"/>
+  <testcase name="testShouldCheckMultipleClicks" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="1.512"/>
+  <testcase name="testShouldCheckProgressBarExists" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.078"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnReset" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.095"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarColorEachSecond: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@4866ca54,android.graphics.HardwareRenderer$DestroyContextRunnable@3d40a1f9)
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarInvisibilityOnInit: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@1201647e,android.graphics.HardwareRenderer$DestroyContextRunnable@35565074)
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarVisibilityOnStart: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@68c12a6,android.graphics.HardwareRenderer$DestroyContextRunnable@6286c1f8)
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckMultipleClicks: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@319e238d,android.graphics.HardwareRenderer$DestroyContextRunnable@6e283d0c)
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarExists: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@55400b1e,android.graphics.HardwareRenderer$DestroyContextRunnable@6277f684)
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarInvisibilityOnReset: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@2ae2506d,android.graphics.HardwareRenderer$DestroyContextRunnable@4aa091e3)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

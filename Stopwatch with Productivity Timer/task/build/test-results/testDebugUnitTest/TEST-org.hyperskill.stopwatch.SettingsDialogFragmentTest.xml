@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.SettingsDialogFragmentTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-03-12T17:21:18" hostname="Uladzislaus-MacBook-Pro.local" time="11.936">
+  <properties/>
+  <testcase name="testShouldCheckColorsOnRestart" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.897"/>
+  <testcase name="testShouldCheckSettingsButtonEnable" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.4"/>
+  <testcase name="testShouldCheckLimitIsSetOnOk" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.535"/>
+  <testcase name="testShouldCheckLimitIsNotSetOnCancel" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.512"/>
+  <testcase name="testShouldCheckSettingsButtonExist" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.095"/>
+  <testcase name="testDialogButtonsShouldContainText" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.185"/>
+  <testcase name="testShouldCheckSettingsButtonText" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.084"/>
+  <testcase name="testShouldShowAlertDialogOnSettingsButtonClick" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.226"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testShouldCheckColorsOnRestart: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3b23183f,android.graphics.HardwareRenderer$DestroyContextRunnable@778f0fb)
+Cleaner.create(android.view.ThreadedRenderer@42815473,android.graphics.HardwareRenderer$DestroyContextRunnable@6d3d8569)
+[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testShouldCheckSettingsButtonEnable: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@648865c2,android.graphics.HardwareRenderer$DestroyContextRunnable@7293dc89)
+[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testShouldCheckLimitIsSetOnOk: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@772b3a55,android.graphics.HardwareRenderer$DestroyContextRunnable@6fed2e98)
+Cleaner.create(android.view.ThreadedRenderer@1123c1c8,android.graphics.HardwareRenderer$DestroyContextRunnable@7e3c26b1)
+[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testShouldCheckLimitIsNotSetOnCancel: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3b6192f1,android.graphics.HardwareRenderer$DestroyContextRunnable@286ae882)
+Cleaner.create(android.view.ThreadedRenderer@7d846c04,android.graphics.HardwareRenderer$DestroyContextRunnable@108dc4a4)
+[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testShouldCheckSettingsButtonExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@60c775b4,android.graphics.HardwareRenderer$DestroyContextRunnable@5f8e36c1)
+[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testDialogButtonsShouldContainText: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@1a2e5299,android.graphics.HardwareRenderer$DestroyContextRunnable@169d6c46)
+Cleaner.create(android.view.ThreadedRenderer@613f1453,android.graphics.HardwareRenderer$DestroyContextRunnable@7ca08ade)
+[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testShouldCheckSettingsButtonText: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@6cee551b,android.graphics.HardwareRenderer$DestroyContextRunnable@72df5431)
+[Robolectric] org.hyperskill.stopwatch.SettingsDialogFragmentTest.testShouldShowAlertDialogOnSettingsButtonClick: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@ecea6ce,android.graphics.HardwareRenderer$DestroyContextRunnable@4c7c9a81)
+Cleaner.create(android.view.ThreadedRenderer@7b1187d6,android.graphics.HardwareRenderer$DestroyContextRunnable@7bf975b)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

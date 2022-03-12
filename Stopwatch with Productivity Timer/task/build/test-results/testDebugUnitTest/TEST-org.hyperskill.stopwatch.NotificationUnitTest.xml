@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.NotificationUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-12T17:21:01" hostname="Uladzislaus-MacBook-Pro.local" time="9.75">
+  <properties/>
+  <testcase name="testShouldCheckNotificationVisibilityOnTimeExceed" classname="org.hyperskill.stopwatch.NotificationUnitTest" time="9.75"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.NotificationUnitTest.testShouldCheckNotificationVisibilityOnTimeExceed: sdk=29; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+Cleaner.create(android.view.ThreadedRenderer@24ed3642,android.graphics.HardwareRenderer$DestroyContextRunnable@4666dd30)
+Cleaner.create(android.view.ThreadedRenderer@fecade5,android.graphics.HardwareRenderer$DestroyContextRunnable@4242f838)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

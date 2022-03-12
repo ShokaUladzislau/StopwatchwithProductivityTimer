@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.ExampleUnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-12T17:21:37" hostname="Uladzislaus-MacBook-Pro.local" time="0.524">
+  <properties/>
+  <testcase name="testShouldCheckTextViewExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.095"/>
+  <testcase name="testShouldCheckResetButtonExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.083"/>
+  <testcase name="testShouldCheckResetButtonText" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.135"/>
+  <testcase name="testShouldCheckStartButtonText" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.113"/>
+  <testcase name="testShouldCheckStartButtonExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.098"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckTextViewExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@6bca2ec1,android.graphics.HardwareRenderer$DestroyContextRunnable@400e4c9e)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckResetButtonExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@5af80d47,android.graphics.HardwareRenderer$DestroyContextRunnable@6c735e41)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckResetButtonText: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@59736774,android.graphics.HardwareRenderer$DestroyContextRunnable@27e620ac)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckStartButtonText: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@71129c6a,android.graphics.HardwareRenderer$DestroyContextRunnable@31523064)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckStartButtonExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@c6d9b50,android.graphics.HardwareRenderer$DestroyContextRunnable@59ead908)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
